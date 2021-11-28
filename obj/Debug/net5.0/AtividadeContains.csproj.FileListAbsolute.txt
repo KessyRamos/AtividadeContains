@@ -1,0 +1,16 @@
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.exe
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.deps.json
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.runtimeconfig.json
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.runtimeconfig.dev.json
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.dll
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\ref\AtividadeContains.dll
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\bin\Debug\net5.0\AtividadeContains.pdb
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.csproj.AssemblyReference.cache
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.AssemblyInfoInputs.cache
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.AssemblyInfo.cs
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.csproj.CoreCompileInputs.cache
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.dll
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\ref\AtividadeContains.dll
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.pdb
+C:\Jeferson\Projetos\AMS\1ano\ManipulacaoString\AtividadeContains\obj\Debug\net5.0\AtividadeContains.genruntimeconfig.cache
